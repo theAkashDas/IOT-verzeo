@@ -1,4 +1,8 @@
 # IOT-verzeo
+Here in this project we use iot to automatically switch on off lights.
+
+The actual project uses relay switch to control 220 volts.But here we use only led to show the concept .
+
 Google assistant is Artificial Intelligence based voice command service. Using voice, we can interact with google assistant and it can search on the internet, schedule events, set alarms, control appliances, etc.
 
 This service is available on smartphones and Google Home devices.
